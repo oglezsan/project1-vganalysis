@@ -1,0 +1,3 @@
+PURPOSE: To create an analysis on video games developments (1980 - 2023) to find out the trends on games developed, genres developed and engagement. So far I intended to reach a bigger scope with business recommendations for choosing a genre for a new development, but I will try to do this once I acquire the skills on statistics and machine learning during the next weeks.\
+The findouts show until 2017 the popularity over the games developed (based on number of plays) was increasing, but after that the tendency is opposite. Also, the most popular genre by far is \'93Adventure\'94. Once more interesting fact is mobile games lead the engagement of the users.\
+}

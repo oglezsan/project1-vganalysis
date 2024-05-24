@@ -3,4 +3,8 @@
 # by the following command:
 #
 #    pip-compile requirements.in
-#
+# Name                    Version                   Build  Channel
+matplotlib                3.8.0           py311hca03da5_0  
+numpy                     1.26.4          py311he598dae_0  
+plotly                    5.9.0           py311hca03da5_0  
+seaborn                   0.12.2          py311hca03da5_0  
